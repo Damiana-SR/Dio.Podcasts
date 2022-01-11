@@ -1,0 +1,16 @@
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.csproj.AssemblyReference.cache
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.AssemblyInfoInputs.cache
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.AssemblyInfo.cs
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.csproj.CoreCompileInputs.cache
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\Dio.Podcasts.exe
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\Dio.Podcasts.deps.json
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\Dio.Podcasts.runtimeconfig.json
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\Dio.Podcasts.runtimeconfig.dev.json
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\Dio.Podcasts.dll
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\ref\Dio.Podcasts.dll
+C:\Users\dalso\Dio.Podcasts\bin\Debug\net5.0\Dio.Podcasts.pdb
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.dll
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\ref\Dio.Podcasts.dll
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.pdb
+C:\Users\dalso\Dio.Podcasts\obj\Debug\net5.0\Dio.Podcasts.genruntimeconfig.cache
